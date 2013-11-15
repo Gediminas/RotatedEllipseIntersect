@@ -1,0 +1,7 @@
+*.opt
+*.plg
+*.ncb
+*.clw
+/binD/
+/Debug/
+/Release/
